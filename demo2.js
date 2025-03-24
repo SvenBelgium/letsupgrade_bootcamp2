@@ -9,3 +9,13 @@ console.log("This is my practice work that i'm performing");
 
 //this data is now in main branch
 //hello from practice
+function counter() {
+    let counter = 0;
+    return function () {
+        return counter++;
+    }
+}
+const add= counter();
+add();
+add();
+add()
