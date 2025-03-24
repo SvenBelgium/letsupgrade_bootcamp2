@@ -6,3 +6,5 @@ document.addEventListener('click', () => {
 
 console.log("This is my practice work that i'm performing");
 //adding more data from practice branch
+
+//hello from practice
